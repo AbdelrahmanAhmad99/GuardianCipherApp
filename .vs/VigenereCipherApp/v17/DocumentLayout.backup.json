@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\services\\tripledesencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\services\\tripledesencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\services\\vigenerecipherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\services\\vigenerecipherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\services\\rsaencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\services\\rsaencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\services\\playfaircipherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\services\\playfaircipherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\services\\icryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\services\\icryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\services\\iasymmetriccryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\services\\iasymmetriccryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\services\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\services\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\services\\elgamalencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\services\\elgamalencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\services\\desencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\services\\desencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\services\\aesencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\services\\aesencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\controllers\\rsacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\controllers\\rsacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\controllers\\hashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\controllers\\hashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\controllers\\asymmetriccryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\controllers\\asymmetriccryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\views\\asymmetriccrypto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\views\\asymmetriccrypto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\views\\hash\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\views\\hash\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\views\\rsa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\views\\rsa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|c:\\users\\dell\\desktop\\github\\vigenerecipherapp\\vigenerecipherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97E555-1B5B-4200-826F-9BE193DA3063}|VigenereCipherApp\\VigenereCipherApp.csproj|solutionrelative:vigenerecipherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayfairCipherService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\PlayfairCipherService.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Services\\PlayfairCipherService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\PlayfairCipherService.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Services\\PlayfairCipherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:49:09.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RsaEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\RsaEncryptionService.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Services\\RsaEncryptionService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\RsaEncryptionService.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Services\\RsaEncryptionService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:43:10.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripleDesEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\TripleDesEncryptionService.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Services\\TripleDesEncryptionService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\TripleDesEncryptionService.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Services\\TripleDesEncryptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:34:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VigenereCipherService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\VigenereCipherService.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Services\\VigenereCipherService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\VigenereCipherService.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Services\\VigenereCipherService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:28:48.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Program.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Program.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:52:23.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICryptoService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\ICryptoService.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Services\\ICryptoService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\ICryptoService.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Services\\ICryptoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:39:26.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAsymmetricCryptoService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\IAsymmetricCryptoService.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Services\\IAsymmetricCryptoService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\IAsymmetricCryptoService.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Services\\IAsymmetricCryptoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:14:45.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HashingService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\HashingService.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Services\\HashingService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\HashingService.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Services\\HashingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:49:46.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElGamalEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\ElGamalEncryptionService.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Services\\ElGamalEncryptionService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\ElGamalEncryptionService.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Services\\ElGamalEncryptionService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv14AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:13:01.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DesEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\DesEncryptionService.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Services\\DesEncryptionService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\DesEncryptionService.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Services\\DesEncryptionService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:38:54.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AesEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\AesEncryptionService.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Services\\AesEncryptionService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Services\\AesEncryptionService.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Services\\AesEncryptionService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:39:07.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:14:13.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:30:43.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HashController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Controllers\\HashController.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Controllers\\HashController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Controllers\\HashController.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Controllers\\HashController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:50:15.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CryptoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Controllers\\CryptoController.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Controllers\\CryptoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Controllers\\CryptoController.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Controllers\\CryptoController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:29:39.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AsymmetricCryptoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Controllers\\AsymmetricCryptoController.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Controllers\\AsymmetricCryptoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Controllers\\AsymmetricCryptoController.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Controllers\\AsymmetricCryptoController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:13:51.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RsaController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Controllers\\RsaController.cs",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Controllers\\RsaController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Controllers\\RsaController.cs",
+              "RelativeToolTip": "VigenereCipherApp\\Controllers\\RsaController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:34:31.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Views\\AsymmetricCrypto\\Index.cshtml",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Views\\AsymmetricCrypto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Views\\AsymmetricCrypto\\Index.cshtml",
+              "RelativeToolTip": "VigenereCipherApp\\Views\\AsymmetricCrypto\\Index.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T19:17:13.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VigenereCipherApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T12:24:43.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Views\\Hash\\Index.cshtml",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Views\\Hash\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Views\\Hash\\Index.cshtml",
+              "RelativeToolTip": "VigenereCipherApp\\Views\\Hash\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T19:51:03.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Views\\Rsa\\Index.cshtml",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Views\\Rsa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Views\\Rsa\\Index.cshtml",
+              "RelativeToolTip": "VigenereCipherApp\\Views\\Rsa\\Index.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T18:35:30.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VigenereCipherApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Github\\VigenereCipherApp\\VigenereCipherApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VigenereCipherApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAUwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T14:30:20.622Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 23,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

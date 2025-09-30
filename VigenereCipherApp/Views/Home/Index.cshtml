@@ -1,0 +1,110 @@
+﻿@{
+    ViewData["Title"] = "Crypto Encryption & Decryption";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body class="bg-light">
+
+    <div class="container mt-5">
+        <div class="card shadow-lg rounded p-4 bg-white">
+            <h2 class="text-center mb-4 text-primary">Crypto Encryption & Decryption</h2>
+
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger">
+                    <strong>Error:</strong> @TempData["Error"]
+                </div>
+            }
+
+            <form method="post" action="/Crypto/EncryptDecrypt">
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Enter Text:</label>
+                    <textarea class="form-control" name="inputText" rows="3" required placeholder="Type your text here..."></textarea>
+                </div>
+
+                <div class="mb-3" id="keyInputSection">
+                    <label class="form-label fw-bold">Enter Key:</label>
+                    <input type="text" class="form-control" name="key" placeholder="Enter encryption key">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Select Encryption Method:</label>
+                    <select class="form-select" name="method" id="encryptionMethod" required onchange="toggleKeyInput()">
+                        <option value="vigenere">Vigenere Cipher</option>
+                        <option value="des">Data Encryption Standard (DES)</option>
+                        <option value="aes">Advanced Encryption Standard (AES)</option>
+                        <option value="tripledes">Triple DES (3DES)</option>
+                        <option value="playfair">Playfair Cipher</option>
+                        <option value="rsa">RSA (Rivest–Shamir–Adleman)</option>
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Select Operation:</label>
+                    <div class="d-flex gap-3">
+                        <button type="submit" name="operation" value="encrypt" class="btn w-100" style="background-color: #2C3E50; color: #ECF0F1;">
+                            Encrypt
+                        </button>
+                        <button type="submit" name="operation" value="decrypt" class="btn w-100" style="background-color: #34495E; color: #ECF0F1;">
+                            Decrypt
+                        </button>
+                    </div>
+                </div>
+
+            </form>
+
+            @if (TempData["Result"] != null)
+            {
+                <div class="mt-4">
+                    <h4 class="text-success">Result:</h4>
+                    <div class="input-group">
+                        <input type="text" class="form-control" id="resultText" value="@TempData["Result"]" readonly>
+                        <button class="btn btn-outline-secondary" onclick="copyToClipboard()">Copy</button>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <script>
+        function copyToClipboard() {
+            var resultText = document.getElementById("resultText");
+            resultText.select();
+            document.execCommand("copy");
+            alert("Copied to clipboard!");
+        }
+
+        function toggleKeyInput() {
+            var method = document.getElementById("encryptionMethod").value;
+            var keySection = document.getElementById("keyInputSection");
+
+            // Hide key for RSA and Playfair
+            if (method === "rsa") {
+                keySection.style.display = "none";
+                keySection.querySelector("input").value = ""; // clear key input
+            } else {
+                keySection.style.display = "block";
+            }
+        }
+
+        // Trigger on page load in case of back navigation or refresh
+        window.onload = toggleKeyInput;
+
+        @if (TempData["PlayfairError"] != null)
+        {
+            <text>
+                    alert('@TempData["PlayfairError"]');
+            </text>
+        }
+    </script>
+
+</body>
+</html>

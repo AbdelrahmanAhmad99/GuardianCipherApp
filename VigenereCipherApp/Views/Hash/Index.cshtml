@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Hash Function Tool";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+<div class="container mt-4">
+    <div class="card shadow-sm p-3" style="max-width: 650px; margin: auto; font-size: 0.9rem;">
+        <h5 class="text-center text-primary mb-3 fw-bold">Hash Function Generator & Comparator</h5>
+
+        @if (TempData["GeneratedHash"] != null)
+        {
+            <div class="alert alert-info py-2 mb-2">
+                <strong>Generated Hash:</strong>
+                <textarea class="form-control form-control-sm mt-2" rows="2" readonly>@TempData["GeneratedHash"]</textarea>
+            </div>
+        }
+
+        @if (TempData["ComparisonResult"] != null)
+        {
+            <div class="alert alert-warning py-2 text-center fw-bold">
+                @TempData["ComparisonResult"]
+            </div>
+        }
+
+        <form method="post" asp-action="GenerateHash" class="mb-3">
+            <div class="mb-2">
+                <label class="form-label fw-semibold">Text to Hash</label>
+                <textarea name="inputText" class="form-control form-control-sm" rows="2" required></textarea>
+            </div>
+
+            <div class="mb-2">
+                <label class="form-label fw-semibold">Hash Algorithm</label>
+                <select name="algorithm" class="form-select form-select-sm">
+                    <option>SHA256</option>
+                    <option>SHA1</option>
+                    <option>SHA384</option>
+                    <option>SHA512</option>
+                    <option>MD5</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-sm fw-bold w-100 btn-primary mb-2">Generate Hash</button>
+        </form>
+
+        <form method="post" asp-action="Compare">
+            <div class="mb-2">
+                <label class="form-label fw-semibold">Hash 1</label>
+                <input type="text" name="hash1" class="form-control form-control-sm" required />
+            </div>
+            <div class="mb-2">
+                <label class="form-label fw-semibold">Hash 2</label>
+                <input type="text" name="hash2" class="form-control form-control-sm" required />
+            </div>
+
+            <button type="submit" class="btn btn-sm fw-bold w-100 btn-dark">Compare Hashes</button>
+        </form>
+    </div>
+</div>
